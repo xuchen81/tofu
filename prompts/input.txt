@@ -1,0 +1,8 @@
+Compnay info:
+{{company_info}}
+
+Target audience info:
+{{target_info}}
+
+Text to personalize:
+{{text}}

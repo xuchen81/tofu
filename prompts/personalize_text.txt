@@ -1,0 +1,7 @@
+Give the following 3 infomaton:
+1. company info in json
+2. target audience info in json
+3. a company text to personalize for the target audience
+
+Please generate a relevant and personalized text for the specific target audience to make them feel interesed, generate in the following json format:
+{"personalized_text":<>}
