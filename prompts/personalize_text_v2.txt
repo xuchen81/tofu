@@ -1,0 +1,6 @@
+Give the following 3 infomaton:
+1. company info in json
+2. target audience info in json
+3. Some company info text (json) to personalize for the target audience
+
+For each key value in 3, Please generate a relevant and personalized text for the specific target audience to make them feel interesed, generate into the same json struct as the 3rd input.

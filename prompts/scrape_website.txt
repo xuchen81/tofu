@@ -1,0 +1,2 @@
+Given a minified website page, please summrize the following info into json format:
+{"company_info":<>, "company_overview": <>, "company_url": <>, "company_slogo":<>}
